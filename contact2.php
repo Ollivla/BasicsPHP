@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!-- Создать форму с полями username, email, message. Сериализовать данные, полученные при отправке формы и
+вывести полученную строку на экран. -->
 <html>
 <head>
     <title>Contact Form</title>

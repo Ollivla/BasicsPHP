@@ -1,4 +1,6 @@
 <?php
+/* Создать многомерный массив, который иллюстрирует список товаров. Каждый товар - это книга (художественная литература).
+ Каждая книга имеет стиль, автора, название и цену. В списке товаров должно быть не менее 3 книг */
 $genre = array('Detective', 'Poetry', 'Biography', 'Adventure');
 $author = array('Mario Puzo', 'Edgar Allan Poe', 'Ingo Walter', 'Jack london');
 $name = array('The Godfather', 'Poems', 'Vincent Van Gogh', 'White Fang');

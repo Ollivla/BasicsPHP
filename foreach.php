@@ -1,4 +1,5 @@
 <?php
+// Создать массив из 10 любых числовых значений. При помощи foreach вывести на экран те значения, которые делятся на 3
 $arr = array(
     'a'  => 21,
     'b' => 17,
@@ -14,5 +15,5 @@ $arr = array(
 echo 'Array values that are divided by 3: <br/>';
 foreach ($arr as $item) {
         if($item % 3 == 0)
-            echo "$item <br/>";
+            echo $item. '<br/>';
 }
